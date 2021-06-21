@@ -67,8 +67,8 @@ Net salary=Basic salary+HRA+DA-(IT+PF)
 Q13. Create Excel for Student record. Perform following steps.
 1) Insert 10 records.
 2) Compute the Total and Percentage using appropriate formula.
-3) Compute the grades based on following criteria. If Percentage >= 90 then Grade is A+
-If Percentage >= 80 and <90 then Grade is A If Percentage >= 60 and <80 then Grade is B If Percentage >= 50 and <60 then Grade is C If Percentage < 50 then grade is D
+3) Compute the grades based on following criteria. 
+If Percentage >= 90 then Grade is A+ If Percentage >= 80 and <90 then Grade is A If Percentage >= 60 and <80 then Grade is B If Percentage >= 50 and <60 then Grade is C If Percentage < 50 then grade is D
 
 Q14. The following are the salaries of five employees. Create a File in Excel
 1) Using Conditional Formatting list out employees who got o   Less than Rs. 15000 as salary
